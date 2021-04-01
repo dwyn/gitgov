@@ -1,28 +1,26 @@
 Did you know in 1878 the first telephone book made contained only 50 names?
 
-# gitgov.us
-
-Stack
+## Stack
 - Python / Django
 - MondgoDB
 - GraphQL
 - React
 - Hosting on Digital Ocean
 
-Who
+## Who
 Mart McMohan.
 Dwayne Harmon.
 You, the people.
 
 
-What 
+## What
 Take an already existing law, proposed law being voted on by the US government, or a law we the people would like to see and make it open source; make it so support is highly visible.
 
-When
+## When
 Now.
 
-Why
+## Why
 Because, and I quote, congress is stinky.
 
-Where
+## Where
 gitgov.us
