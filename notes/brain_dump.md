@@ -5,7 +5,10 @@ Did you know in 1878 the first telephone book made contained only 50 names?
 - MondgoDB
 - GraphQL
 - React
-- Hosting on Digital Ocean
+- Hosted on Digital Ocean
+
+## To Consider:
+https://wyag.thb.lt/
 
 ## Who
 Mart McMohan.
@@ -24,3 +27,11 @@ Because, and I quote, congress is stinky.
 
 ## Where
 gitgov.us
+
+
+### Planning questions:
+- Does the US government have an api for current laws, and laws being proposed?
+- If not will we have to scrape?
+- What do merge conflict resolutions look like?
+- How do we explain version control to the average person?
+- 
