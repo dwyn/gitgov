@@ -34,4 +34,7 @@ gitgov.us
 - If not will we have to scrape?
 - What do merge conflict resolutions look like?
 - How do we explain version control to the average person?
-- 
+
+### Actionable Items
+- Dwayne: More planning via Amazon's backwards planning thingy
+- Mart: Keep rocking
